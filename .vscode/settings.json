@@ -1,0 +1,15 @@
+{
+    "chatgpt.telemetry.disable": false,
+    "chatgpt.response.showNotification": false,
+    "chatgpt.gpt3.apiKey": "",
+    "chatgpt.promptPrefix.addComments": "text=audio",
+    "chatgpt.promptPrefix.customPrompt1": "text=audio",
+    "chatgpt.promptPrefix.customPrompt2-enabled": true,
+    "npm.enableRunFromFolder": true,
+    "npm.runSilent": true,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
